@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$AlphaTest" "1"
+	"$AlphaTestReference" "0.3"
+	"$AllowAlphaToCoverage" "1"
+
+	"$basetexture" "cube/fence_chicken_alpha"
+	"$surfaceprop" "chainlink"
+	"$nodecal" 1
+	"$nolod" 1
+}

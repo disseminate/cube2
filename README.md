@@ -1,0 +1,1 @@
+This is Cube 2.2, as of May 2010. It no longer functions in Garry's Mod, and is uploaded for archival purposes.
